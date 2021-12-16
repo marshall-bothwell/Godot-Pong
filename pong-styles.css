@@ -15,7 +15,7 @@ body {
   left: 0;
   position: absolute;
   background-size: cover;
-  background-image: url("https://github.com/marshall-bothwell/marshall-bothwell.github.io/blob/main/testbackground.jpg?raw=true");
+  background-image: url("testbackground.jpg");
 }
 
 #left-paddle {
